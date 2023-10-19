@@ -5,7 +5,9 @@
 
 <h3>📅 진행시기</h3>
 2023년 9월 ~ 10월: 주제선정과 기획 및 설계
+
 2023년 10월 ~ 11월: 요구사항에 따른 기능 구현
+
 2023년 12월 ~ : 리팩토링 및 유지보수
 
 <h3>🛠사용언어</h3>
@@ -15,7 +17,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
-<h3>저를 더 알고싶다면(현재는 멤버만 접근 가능)</h3>
+<h3>저희팀의 개발과정이 궁금하다면(현재는 멤버만 접근 가능)</h3>
 <a href="https://www.notion.so/34ee22cb718543c1b425cd9813298897">
     <img src="https://img.shields.io/badge/notion-3776AB?style=for-the-badge&logo=Notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
